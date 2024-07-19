@@ -1,4 +1,4 @@
-# Equipe de Desenvolvimento - Código Certo Coders 🚀
+# Equipe de Desenvolvimento - Codigo Certo Coders 🚀
 
 ![equipe03](https://i.imgur.com/1d41e3p.png)
 
@@ -8,9 +8,6 @@ Bem-vindo ao repositório da Equipe de Desenvolvimento Código Certo Coders [03]
 - Promovemos uma cultura de aprendizado contínuo e crescimento pessoal entre todos os membros da equipe.
   
 # Nossa Equipe: ✨
-
-## **Tech Lead** 
-
 | **Nome** | **Posição** | **LinkedIn** | **GitHub** |
 |---|---|---|---|
 | Vinicius Lima | Tech Lead | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/68vinicius/) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/68vinicius) |
@@ -23,7 +20,7 @@ Bem-vindo ao repositório da Equipe de Desenvolvimento Código Certo Coders [03]
 | Janio | **[LT]** Back-End | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janioofi) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janioofi) |
 | Edielson | Back-End | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edielson-assis) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edielson-assis) |
 | André Pereira | Platform Engineer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrepreira/) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrepreira) |
-| Israel Alexandre | DevOps | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-santos) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raelfrances) |
+| Israel Alexandre | DevOps | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-santos-/) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raelfrances) |
 | None | FullStack | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com) |
 | None | FullStack | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com) |
 | None | Quality Assurance | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com) |
@@ -38,6 +35,7 @@ Bem-vindo ao repositório da Equipe de Desenvolvimento Código Certo Coders [03]
 - **Back-end:** Java, Spring Boot
 - **Banco de Dados:** PostgreSQL
 - **Controle de Versão:** Git
+- **Gerenciador de Projeto:** ClickUp
 - **Ferramentas de Design UX/UI:** Figma
 - **QA (Controle de Qualidade):** Jest, Cypress
 ---
