@@ -2,7 +2,7 @@
 
 ![equipe03](https://i.imgur.com/1d41e3p.png)
 
-Bem-vindo ao repositório da Equipe de Desenvolvimento Código Certo Coders [03]! 
+Bem-vindo ao repositório da nossa Equipe de Desenvolvimento Código Certo Coders! 
 - Queremos ser reconhecidos pela qualidade e pela capacidade de transformar desafios em oportunidades.
 - Nossa missão é cultivar um ambiente colaborativo onde a criatividade e a inovação floresçam em cada projeto.
 - Promovemos uma cultura de aprendizado contínuo e crescimento pessoal entre todos os membros da equipe.
@@ -19,6 +19,7 @@ Bem-vindo ao repositório da Equipe de Desenvolvimento Código Certo Coders [03]
 | Christian Souza | Front-End | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/christian-souzaa) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristianSouza12) |
 | Janio | **[LT]** Back-End | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janioofi) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janioofi) |
 | Edielson | Back-End | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edielson-assis) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edielson-assis) |
+| Douglas | Back-End | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-candido-dev) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Doug2704) |
 | André Pereira | Platform Engineer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrepreira/) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrepreira) |
 | Israel Alexandre | DevOps | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-santos-/) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raelfrances) |
 | None | FullStack | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com) |
