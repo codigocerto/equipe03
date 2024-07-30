@@ -43,6 +43,7 @@ public class Usuario implements Serializable {
     @Column(nullable = false)
     private Disponibilidade disponibilidade;
 
+    @Column(nullable = false)
     private String descricao;
 
     @Column(nullable = false)
