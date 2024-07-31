@@ -3,7 +3,8 @@ package com.codigocerto.backend.domain.entities;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 
-import com.codigocerto.backend.domain.enums.Disponibilidade;
+import com.codigocerto.backend.domain.enums.Status;
+import com.fasterxml.jackson.annotation.JsonFormat;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -15,7 +16,6 @@ import jakarta.persistence.Id;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
-
 
 @EqualsAndHashCode(of = "idUsuario")
 @Setter
@@ -36,12 +36,12 @@ public class Usuario implements Serializable {
     @Column(unique = true, nullable = false)
     private String email;
 
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss'Z'", timezone = "GMT")
     @Column(name = "data_cadastro")
     private LocalDateTime dataCadastro;
 
-    @Enumerated(EnumType.STRING)
     @Column(nullable = false)
-    private Disponibilidade disponibilidade;
+    private String disponibilidade;
 
     @Column(nullable = false)
     private String descricao;
@@ -52,7 +52,12 @@ public class Usuario implements Serializable {
     @Column(nullable = false)
     private String area;
 
+    @Enumerated(EnumType.STRING)
+    @Column(nullable = false)
+    private Status status;
+
     public Usuario() {
         this.dataCadastro = LocalDateTime.now();
+        this.status = Status.FILA_DE_ESPERA;
     }
 }

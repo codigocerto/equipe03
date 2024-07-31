@@ -1,7 +1,5 @@
 package com.codigocerto.backend.domain.dtos;
 
-import com.codigocerto.backend.domain.enums.Disponibilidade;
-
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
@@ -24,7 +22,7 @@ public record UsuarioRequestDto(
     String email,
 
     @NotBlank(message = "{campo.obrigatorio}")
-    Disponibilidade disponibilidade,
+    String disponibilidade,
 
     @NotBlank(message = "{campo.obrigatorio}")
     String linguagem,
