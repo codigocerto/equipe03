@@ -1,22 +1,14 @@
 package com.codigocerto.backend.domain.entities;
 
-import java.time.LocalDateTime;
-
 import com.codigocerto.backend.domain.enums.Status;
 import com.fasterxml.jackson.annotation.JsonFormat;
-
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.EnumType;
-import jakarta.persistence.Enumerated;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import lombok.EqualsAndHashCode;
+import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
-@EqualsAndHashCode(of = "idUsuario")
+import java.time.LocalDateTime;
+import java.util.Objects;
+
 @Setter
 @Getter
 @Entity
@@ -59,5 +51,18 @@ public class Usuario {
     public Usuario() {
         this.dataCadastro = LocalDateTime.now();
         this.status = Status.FILA_DE_ESPERA;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Usuario usuario = (Usuario) o;
+        return Objects.equals(idUsuario, usuario.idUsuario);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hashCode(idUsuario);
     }
 }
